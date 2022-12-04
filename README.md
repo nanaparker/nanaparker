@@ -2,7 +2,7 @@
 
 - 🧔🏾‍♂️ My name is Nana Parker
 - 💻 I’m interested in Digital Forensics and Network Security
-- 🌱 Current learning Python, Php, Go and Shell Scripting
+- 🌱 Currently learning Python, Php, Go and Shell Scripting
 - 🤝🏾 I’m looking to collaborate on information security related projects
 
 <!---
